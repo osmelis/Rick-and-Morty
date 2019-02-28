@@ -1,0 +1,31 @@
+.fondo{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url("../img/fondo.jpg");
+    background-size: cover;
+    background-position: right;
+}
+
+.portal{
+    position: absolute;
+    background-image: url("../img/portal.gif");
+    width: 85px;
+    height: 349px;
+    right: 84px;
+    bottom: 78px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+
+}
+.logo{
+    position: absolute;
+    width: 60%;
+    height: auto;
+    right: auto;
+    bottom: 0;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
